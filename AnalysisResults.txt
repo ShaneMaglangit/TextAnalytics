@@ -1,0 +1,5 @@
+Number of Sentences: 8
+Number of Words: 122
+Number of Stop Words: 74
+Number of Non-Stop Words: 48
+Number of Paragraphs: 2
